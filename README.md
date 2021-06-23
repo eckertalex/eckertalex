@@ -8,7 +8,7 @@ I am a software developer living in Germany. I mainly program in JavaScript and 
 
 [Contact me on Polywork!](https://poly.work/eckertalex/contact)
 
-## 📊 Statistics 📊
+#### 📊 Statistics 📊
 
 [![eckertalex' GitHub stats](https://github-readme-stats.vercel.app/api?username=eckertalex&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
